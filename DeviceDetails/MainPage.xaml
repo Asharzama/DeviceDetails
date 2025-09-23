@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DeviceDetails.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="10">
+
+            <Label Text="Device Information"
+                   FontSize="24"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center" />
+
+            <Label Text="{Binding Model}" />
+            <Label Text="{Binding Manufacturer}" />
+            <Label Text="{Binding Name}" />
+            <Label Text="{Binding Version}" />
+            <Label Text="{Binding Platform}" />
+            <Label Text="{Binding Idiom}" />
+            <Label Text="{Binding DeviceType}" />
+            <Label Text="{Binding SerialNumber}" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
