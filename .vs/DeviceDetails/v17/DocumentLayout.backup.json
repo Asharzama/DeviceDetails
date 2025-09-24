@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MDM\\DeviceDetails\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8499BFA3-F72D-47B8-99F1-79CC7C504057}|DeviceDetails\\DeviceDetails.csproj|d:\\mdm\\devicedetails\\devicedetails\\deviceinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8499BFA3-F72D-47B8-99F1-79CC7C504057}|DeviceDetails\\DeviceDetails.csproj|solutionrelative:devicedetails\\deviceinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8499BFA3-F72D-47B8-99F1-79CC7C504057}|DeviceDetails\\DeviceDetails.csproj|d:\\mdm\\devicedetails\\devicedetails\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8499BFA3-F72D-47B8-99F1-79CC7C504057}|DeviceDetails\\DeviceDetails.csproj|solutionrelative:devicedetails\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8499BFA3-F72D-47B8-99F1-79CC7C504057}|DeviceDetails\\DeviceDetails.csproj|d:\\mdm\\devicedetails\\devicedetails\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8499BFA3-F72D-47B8-99F1-79CC7C504057}|DeviceDetails\\DeviceDetails.csproj|solutionrelative:devicedetails\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8499BFA3-F72D-47B8-99F1-79CC7C504057}|DeviceDetails\\DeviceDetails.csproj|d:\\mdm\\devicedetails\\devicedetails\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8499BFA3-F72D-47B8-99F1-79CC7C504057}|DeviceDetails\\DeviceDetails.csproj|solutionrelative:devicedetails\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8499BFA3-F72D-47B8-99F1-79CC7C504057}|DeviceDetails\\DeviceDetails.csproj|d:\\mdm\\devicedetails\\devicedetails\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8499BFA3-F72D-47B8-99F1-79CC7C504057}|DeviceDetails\\DeviceDetails.csproj|solutionrelative:devicedetails\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8499BFA3-F72D-47B8-99F1-79CC7C504057}|DeviceDetails\\DeviceDetails.csproj|d:\\mdm\\devicedetails\\devicedetails\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8499BFA3-F72D-47B8-99F1-79CC7C504057}|DeviceDetails\\DeviceDetails.csproj|solutionrelative:devicedetails\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "D:\\MDM\\DeviceDetails\\DeviceDetails\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "DeviceDetails\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "D:\\MDM\\DeviceDetails\\DeviceDetails\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "DeviceDetails\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T11:35:09.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "D:\\MDM\\DeviceDetails\\DeviceDetails\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "DeviceDetails\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "D:\\MDM\\DeviceDetails\\DeviceDetails\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "DeviceDetails\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T11:35:07.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "D:\\MDM\\DeviceDetails\\DeviceDetails\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "DeviceDetails\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "D:\\MDM\\DeviceDetails\\DeviceDetails\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "DeviceDetails\\Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-08-11T06:33:06.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeviceInfoViewModel.cs",
+              "DocumentMoniker": "D:\\MDM\\DeviceDetails\\DeviceDetails\\DeviceInfoViewModel.cs",
+              "RelativeDocumentMoniker": "DeviceDetails\\DeviceInfoViewModel.cs",
+              "ToolTip": "D:\\MDM\\DeviceDetails\\DeviceDetails\\DeviceInfoViewModel.cs",
+              "RelativeToolTip": "DeviceDetails\\DeviceInfoViewModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA4wBMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T06:31:29.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\MDM\\DeviceDetails\\DeviceDetails\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "DeviceDetails\\MainPage.xaml.cs",
+              "ToolTip": "D:\\MDM\\DeviceDetails\\DeviceDetails\\MainPage.xaml.cs",
+              "RelativeToolTip": "DeviceDetails\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAywB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T06:30:44.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\MDM\\DeviceDetails\\DeviceDetails\\MainPage.xaml",
+              "RelativeDocumentMoniker": "DeviceDetails\\MainPage.xaml",
+              "ToolTip": "D:\\MDM\\DeviceDetails\\DeviceDetails\\MainPage.xaml",
+              "RelativeToolTip": "DeviceDetails\\MainPage.xaml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-11T06:30:21.983Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
